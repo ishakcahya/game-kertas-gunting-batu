@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="50dp">
+
+    <TextView
+        android:id="@+id/btn_main_lagi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hasil Permainan"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:fontFamily="@font/comic_sans_ms_bold"
+        android:textColor="@color/black"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Main Lagi"
+        android:textSize="20sp"
+        android:textAllCaps="false"
+        android:fontFamily="@font/comic_sans_ms_bold"
+        android:textColor="@color/white"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/bg_dialog"
+        />
+
+    <Button
+        android:id="@+id/btn_back_to_menu"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Kembali ke Menu"
+        android:textAllCaps="false"
+        android:textSize="20sp"
+        android:background="@drawable/bg_dialog"
+        android:fontFamily="@font/comic_sans_ms_bold"
+        android:textColor="@color/black"
+        android:backgroundTint="#FF5722"
+        android:layout_marginTop="15dp"
+        />
+
+</LinearLayout>

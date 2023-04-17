@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Game Kertas Gunting Batu</string>
+    <string name="skip_intro">SKIP INTRO</string>
+    <string name="next">NEXT</string>
+    <string name="description_text">Description Text</string>
+    <string name="title_text">Title Text</string>
+    <string name="dialog_start_game" />
+    <string name="start" />
+    <string name="cancel" />
+    <string name="signin" />
+</resources>
